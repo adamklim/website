@@ -1,2 +1,2 @@
 # website
-Hugo-based personal blog, published version
+Hugo-based personal blog
