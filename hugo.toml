@@ -60,9 +60,10 @@ theme = "triple-hyde"
 
 ## Social Accounts
 [params.social]
-    github = "<username>"
+    github = "adamklim"
     # instagram = "<username>"
     linkedin = "adam-klimiuk"
+    youtube = "adamklimiuk"
     # twitter = "<username>"
     # facebook = "<username>"
     # stackoverflow = "<username>"
@@ -101,3 +102,9 @@ theme = "triple-hyde"
 
 # [[services.disqus]]
     # shortname = 'GA-YOURID'
+
+# adding from apero theme
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
