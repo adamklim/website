@@ -27,7 +27,7 @@ theme = "triple-hyde"
     license = "All rights reserved."
     #licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
     showBuiltWith = true
-    #layoutReverse = true
+    #layoutReverse = true 
 
     # highlight.js
     # https://highlightjs.org
