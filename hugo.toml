@@ -84,17 +84,17 @@ theme = "triple-hyde"
 [[menu.main]]
     name = "Portfolio"
     identifier = "portfolio"
-    weight = 200
+    weight = 150
     url = "/portfolio/"
-[[menu.main]]
-    name = "Icons"
-    identifier = "icons"
-    weight = 250
-    url = "/icons/"
+# [[menu.main]]
+    # name = "Icons"
+    # identifier = "icons"
+    # weight = 250
+    # url = "/icons/"
 [[menu.main]]
     name = "About"
     identifier = "about"
-    weight = 300
+    weight = 250
     url = "/about/"
 
 # [[services.googleAnalytics]]
@@ -102,9 +102,3 @@ theme = "triple-hyde"
 
 # [[services.disqus]]
     # shortname = 'GA-YOURID'
-
-# adding from apero theme
-[taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
