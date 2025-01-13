@@ -81,11 +81,11 @@ theme = "triple-hyde"
     weight = 100
     identifier = "posts"
     url = "/posts/"
-[[menu.main]]
-    name = "Portfolio"
-    identifier = "portfolio"
-    weight = 150
-    url = "/portfolio/"
+# [[menu.main]]
+    # name = "Portfolio"
+    # identifier = "portfolio"
+    # weight = 150
+    # url = "/portfolio/"
 # [[menu.main]]
     # name = "Icons"
     # identifier = "icons"
