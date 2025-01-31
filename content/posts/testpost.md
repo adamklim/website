@@ -1,7 +1,8 @@
 +++
-date = '2025-01-02T22:15:10+01:00'
+date = '2025-01-31T18:15:10+01:00'
 draft = false
 title = 'Testpost'
 +++
 
-There should be no doubt that it works.
+This is a test post.
+## Nothing to see here.
