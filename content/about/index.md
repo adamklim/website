@@ -4,4 +4,4 @@ draft = false
 title = 'About'
 +++
 
-Since 2017 I have been using data analytics to solve issues in IT Operations.
+This about page will be updated.
